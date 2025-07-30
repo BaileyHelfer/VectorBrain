@@ -28,11 +28,11 @@ This project is ideal for internal knowledge bases, secure document analysis, an
 
 ### Chat Interface
 
-![Chat Interface](assets\vector_brain_2.JPG)
+![Chat Interface](./assets/vector_brain_2.JPG)
 
 ### Document Upload View
 
-![Documents View](assets\vector_brain.JPG)
+![Documents View](./assets/vector_brain.JPG)
 
 ## 🚀 Getting Started
 
