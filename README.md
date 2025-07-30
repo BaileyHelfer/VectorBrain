@@ -26,13 +26,24 @@ This project is ideal for internal knowledge bases, secure document analysis, an
 
 ## 🖼️ Screenshots
 
+### 📄 Demo BOM (Bill of Materials)
+
+| Part Number | Part Name                    | Quantity | Unit Price (USD) | Total Price (USD) | Supplier  | URL |
+|-------------|------------------------------|----------|------------------|--------------------|-----------|------|
+| PN-001      | Resistor 10kΩ                | 100      | 0.01             | 1.00               | Digi-Key  | https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/732542 |
+| PN-002      | Capacitor 100uF              | 50       | 0.05             | 2.50               | Mouser    | https://www.mouser.com/ProductDetail/Nichicon/UFW1C101MPD?qs=sGAEpiMZZMtZ1n0r9vR22Q%3D%3D |
+| PN-003      | LED Red 5mm                  | 200      | 0.03             | 6.00               | SparkFun  | https://www.sparkfun.com/products/9590 |
+| PN-004      | Microcontroller ATmega328    | 10       | 2.50             | 25.00              | Adafruit  | https://www.adafruit.com/product/123 |
+| PN-005      | Voltage Regulator LM7805     | 15       | 0.75             | 11.25              | Jameco    | https://www.jameco.com/z/LM7805-Voltage-Regulator-5V-1A-TO-220-Linear_51263.html |
+
+
 ### Chat Interface
 
-![Chat Interface](./assets/vector_brain.JPG)
+![Chat Interface](./assets/vectorbrain-chat.JPG)
 
 ### Document Upload View
 
-![Documents View](./assets/vector_brain_2.JPG)
+![Documents View](./assets/vectorbrain-doc.JPG)
 
 ## 🚀 Getting Started
 
